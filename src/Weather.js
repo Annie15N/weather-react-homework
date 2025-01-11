@@ -65,7 +65,7 @@ export default function Weather() {
           </a>{" "}
           and
           <a
-            href="https://main--graceful-gumdrop-5e9977.netlify.app/"
+            href="https://sweet-crisp-a03f28.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
