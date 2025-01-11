@@ -52,7 +52,7 @@ export default function Weather() {
           </a>{" "}
           and is
           <a
-            href="https://github.com/Annie15N/weather-app-project"
+            href="https://github.com/Annie15N/weather-react-homework"
             target="_blank"
           >
             {" "}
